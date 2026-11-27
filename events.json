@@ -1,0 +1,94 @@
+{
+ "actualizado": "2026-11-26",
+ "nota": "Eventos extra de Mi Venecia. La guía los suma a su lista fija cada vez que se abre.",
+ "events": [
+  {
+   "s": "2026-12-04",
+   "e": "2026-12-06",
+   "c": "teatro",
+   "n": {
+    "it": "Concerto sinfonico (Ioffe)",
+    "es": "Concierto sinfónico (Ioffe)",
+    "en": "Symphony concert (Ioffe)"
+   },
+   "d": {
+    "it": "Alevtina Ioffe dirige l’Orchestra della Fenice: Čajkovskij (Capriccio italiano, Mozartiana) e la Sinfonia n. 3 di Rachmaninov. Ven e sab 20:00, dom 17:00.",
+    "es": "Alevtina Ioffe dirige la Orquesta de La Fenice: Chaikovski (Capriccio italiano, Mozartiana) y la Sinfonía n.º 3 de Rajmáninov. Vie y sáb 20:00, dom 17:00.",
+    "en": "Alevtina Ioffe conducts the Fenice Orchestra: Tchaikovsky (Capriccio italiano, Mozartiana) and Rachmaninov’s Symphony No. 3. Fri and Sat 8 pm, Sun 5 pm."
+   },
+   "l": {
+    "it": "Teatro La Fenice (San Marco)",
+    "es": "Teatro La Fenice (San Marco)",
+    "en": "Teatro La Fenice (San Marco)"
+   },
+   "q": "Teatro La Fenice, Venezia",
+   "x": false
+  },
+  {
+   "s": "2026-12-15",
+   "e": "2026-12-16",
+   "c": "teatro",
+   "n": {
+    "it": "Concerto di Natale",
+    "es": "Concierto de Navidad",
+    "en": "Christmas concert"
+   },
+   "d": {
+    "it": "L’Orchestra del Teatro La Fenice nella Basilica di San Marco, alle 20:00. Informazioni sull’accesso sul sito della Fenice.",
+    "es": "La Orquesta del Teatro La Fenice en la Basílica de San Marcos, a las 20:00. Información sobre el acceso en la web de La Fenice.",
+    "en": "The Teatro La Fenice Orchestra in St Mark’s Basilica, at 8 pm. Admission details on the Fenice website."
+   },
+   "l": {
+    "it": "Basilica di San Marco – con la Fenice",
+    "es": "Basílica de San Marcos – con La Fenice",
+    "en": "St Mark’s Basilica – with La Fenice"
+   },
+   "q": "Basilica di San Marco, Venezia",
+   "x": false
+  },
+  {
+   "s": "2026-11-14",
+   "e": "2027-03-29",
+   "c": "cultura",
+   "n": {
+    "it": "Mostra: Fucina degli Angeli",
+    "es": "Exposición: Fucina degli Angeli",
+    "en": "Exhibition: Fucina degli Angeli"
+   },
+   "d": {
+    "it": "Peggy Guggenheim e il vetro artistico del Novecento.",
+    "es": "Peggy Guggenheim y el vidrio artístico del siglo XX.",
+    "en": "Peggy Guggenheim and 20th-century art glass."
+   },
+   "l": {
+    "it": "Collezione Peggy Guggenheim (Dorsoduro)",
+    "es": "Colección Peggy Guggenheim (Dorsoduro)",
+    "en": "Peggy Guggenheim Collection (Dorsoduro)"
+   },
+   "q": "Collezione Peggy Guggenheim, Venezia",
+   "x": false
+  },
+  {
+   "s": "2026-03-29",
+   "e": "2027-01-10",
+   "c": "cultura",
+   "n": {
+    "it": "Mostra: Amar Kanwar. Co-travellers",
+    "es": "Exposición: Amar Kanwar. Co-travellers",
+    "en": "Exhibition: Amar Kanwar. Co-travellers"
+   },
+   "d": {
+    "it": "Due grandi installazioni multimediali dell’artista indiano.",
+    "es": "Dos grandes instalaciones multimedia del artista indio.",
+    "en": "Two large multimedia installations by the Indian artist."
+   },
+   "l": {
+    "it": "Palazzo Grassi (San Marco)",
+    "es": "Palazzo Grassi (San Marco)",
+    "en": "Palazzo Grassi (San Marco)"
+   },
+   "q": "Palazzo Grassi, Venezia",
+   "x": false
+  }
+ ]
+}
