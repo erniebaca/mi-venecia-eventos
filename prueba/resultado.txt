@@ -1,0 +1,3 @@
+previsione.json -> 403 text/html 864
+bollettino_grafico.jpg -> 200 image/jpeg 192361
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" src="/_Incapsula_Resourc
