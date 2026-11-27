@@ -1,0 +1,26 @@
+name: Prueba marea
+on:
+  push:
+    paths: [".github/workflows/marea.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar pronostico del Comune
+        run: |
+          mkdir -p prueba
+          for u in "https://dati.venezia.it/sites/default/files/dataset/opendata/previsione.json" "https://www.comune.venezia.it/sites/default/files/publicCPSM/png/bollettino_grafico.jpg"; do
+            n=$(basename "$u")
+            code=$(curl -sS -L -A "Mozilla/5.0" -o "prueba/$n" -w "%{http_code} %{content_type} %{size_download}" "$u" || echo "fallo")
+            echo "$n -> $code" >> prueba/resultado.txt
+          done
+          head -c 300 prueba/previsione.json >> prueba/resultado.txt || true
+          rm -f prueba/bollettino_grafico.jpg prueba/previsione.json
+      - name: Guardar resultado
+        run: |
+          git config user.name "github-actions"; git config user.email "actions@github.com"
+          git add prueba; git commit -m "Resultado prueba marea" || true; git push
