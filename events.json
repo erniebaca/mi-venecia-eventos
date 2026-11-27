@@ -201,6 +201,28 @@
    "x": false
   },
   {
+   "s": "2026-12-05",
+   "e": "2027-02-07",
+   "c": "cultura",
+   "n": {
+    "it": "Mostra: Infinito veneziano",
+    "es": "Exposición: Infinito veneciano",
+    "en": "Exhibition: Infinito veneziano"
+   },
+   "d": {
+    "it": "Venezia vista dai pittori, da Canaletto e Guardi fino a Emilio Vedova.",
+    "es": "Venecia vista por sus pintores, de Canaletto y Guardi a Emilio Vedova.",
+    "en": "Venice through its painters, from Canaletto and Guardi to Emilio Vedova."
+   },
+   "l": {
+    "it": "Fondazione Bevilacqua La Masa (San Marco)",
+    "es": "Fundación Bevilacqua La Masa (San Marco)",
+    "en": "Bevilacqua La Masa Foundation (San Marco)"
+   },
+   "q": "Fondazione Bevilacqua La Masa, Piazza San Marco, Venezia",
+   "x": false
+  },
+  {
    "s": "2026-12-15",
    "e": "2026-12-16",
    "c": "teatro",
@@ -220,6 +242,28 @@
     "en": "St Mark’s Basilica (San Marco)"
    },
    "q": "Basilica di San Marco, Venezia",
+   "x": false
+  },
+  {
+   "s": "2026-12-16",
+   "e": "2027-03-29",
+   "c": "cultura",
+   "n": {
+    "it": "Mostra: Alice Springs & Helmut Newton",
+    "es": "Exposición: Alice Springs & Helmut Newton",
+    "en": "Exhibition: Alice Springs & Helmut Newton"
+   },
+   "d": {
+    "it": "«A Dual Gaze»: le fotografie della coppia Helmut Newton e Alice Springs a confronto.",
+    "es": "«A Dual Gaze»: las fotografías de la pareja Helmut Newton y Alice Springs, frente a frente.",
+    "en": "“A Dual Gaze”: photographs by the couple Helmut Newton and Alice Springs shown side by side."
+   },
+   "l": {
+    "it": "Palazzo Franchetti (San Marco)",
+    "es": "Palazzo Franchetti (San Marco)",
+    "en": "Palazzo Franchetti (San Marco)"
+   },
+   "q": "Palazzo Franchetti, Venezia",
    "x": false
   },
   {
