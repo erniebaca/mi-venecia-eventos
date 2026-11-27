@@ -3,6 +3,182 @@
  "nota": "Eventos extra de Mi Venecia. La guía los suma a su lista fija cada vez que se abre.",
  "events": [
   {
+   "s": "2026-03-29",
+   "e": "2027-01-10",
+   "c": "cultura",
+   "n": {
+    "it": "Mostra: Amar Kanwar. Co-travellers",
+    "es": "Exposición: Amar Kanwar. Co-travellers",
+    "en": "Exhibition: Amar Kanwar. Co-travellers"
+   },
+   "d": {
+    "it": "Due grandi installazioni multimediali dell’artista indiano.",
+    "es": "Dos grandes instalaciones multimedia del artista indio.",
+    "en": "Two large multimedia installations by the Indian artist."
+   },
+   "l": {
+    "it": "Palazzo Grassi (San Marco)",
+    "es": "Palazzo Grassi (San Marco)",
+    "en": "Palazzo Grassi (San Marco)"
+   },
+   "q": "Palazzo Grassi, Venezia",
+   "x": false
+  },
+  {
+   "s": "2026-04-21",
+   "e": "2027-01-08",
+   "c": "cultura",
+   "n": {
+    "it": "Mostra: Merletti d’Autore",
+    "es": "Exposición: Merletti d’Autore",
+    "en": "Exhibition: Merletti d’Autore"
+   },
+   "d": {
+    "it": "Pizzi d’autore nel museo dedicato alla tradizione del merletto di Burano.",
+    "es": "Encajes de autor en el museo dedicado a la tradición del encaje de Burano.",
+    "en": "Signature lacework at the museum devoted to Burano’s lace-making tradition."
+   },
+   "l": {
+    "it": "Museo del Merletto (Burano)",
+    "es": "Museo del Encaje (Burano)",
+    "en": "Lace Museum (Burano)"
+   },
+   "q": "Museo del Merletto, Burano, Venezia",
+   "x": false
+  },
+  {
+   "s": "2026-05-07",
+   "e": "2027-03-22",
+   "c": "cultura",
+   "n": {
+    "it": "Mostra: Marinella Senatore. We Rise by Lifting Others",
+    "es": "Exposición: Marinella Senatore. We Rise by Lifting Others",
+    "en": "Exhibition: Marinella Senatore. We Rise by Lifting Others"
+   },
+   "d": {
+    "it": "Mostra dell’artista Marinella Senatore sulla partecipazione e la comunità, nelle Procuratie Vecchie.",
+    "es": "Exposición de la artista Marinella Senatore sobre participación y comunidad, en las Procuratie Vecchie.",
+    "en": "Marinella Senatore’s exhibition on participation and community, in the Procuratie Vecchie."
+   },
+   "l": {
+    "it": "The Human Safety Net, Procuratie Vecchie (San Marco)",
+    "es": "The Human Safety Net, Procuratie Vecchie (San Marco)",
+    "en": "The Human Safety Net, Procuratie Vecchie (San Marco)"
+   },
+   "q": "Procuratie Vecchie, Piazza San Marco, Venezia",
+   "x": false
+  },
+  {
+   "s": "2026-11-06",
+   "e": "2026-11-29",
+   "c": "cultura",
+   "n": {
+    "it": "Mostra: Arte Laguna Prize",
+    "es": "Exposición: Arte Laguna Prize",
+    "en": "Exhibition: Arte Laguna Prize"
+   },
+   "d": {
+    "it": "Le opere finaliste del premio internazionale di arte contemporanea Arte Laguna.",
+    "es": "Las obras finalistas del premio internacional de arte contemporáneo Arte Laguna.",
+    "en": "Finalist works of the Arte Laguna international contemporary art prize."
+   },
+   "l": {
+    "it": "Arsenale Nord (Castello)",
+    "es": "Arsenale Nord (Castello)",
+    "en": "Arsenale Nord (Castello)"
+   },
+   "q": "Arsenale Nord, Venezia",
+   "x": false
+  },
+  {
+   "s": "2026-11-14",
+   "e": "2027-03-29",
+   "c": "cultura",
+   "n": {
+    "it": "Mostra: Fucina degli Angeli",
+    "es": "Exposición: Fucina degli Angeli",
+    "en": "Exhibition: Fucina degli Angeli"
+   },
+   "d": {
+    "it": "Peggy Guggenheim e il vetro artistico del Novecento.",
+    "es": "Peggy Guggenheim y el vidrio artístico del siglo XX.",
+    "en": "Peggy Guggenheim and 20th-century art glass."
+   },
+   "l": {
+    "it": "Collezione Peggy Guggenheim (Dorsoduro)",
+    "es": "Colección Peggy Guggenheim (Dorsoduro)",
+    "en": "Peggy Guggenheim Collection (Dorsoduro)"
+   },
+   "q": "Collezione Peggy Guggenheim, Venezia",
+   "x": false
+  },
+  {
+   "s": "2026-11-14",
+   "e": "2027-02-14",
+   "c": "cultura",
+   "n": {
+    "it": "Mostra: Le parole e le cose",
+    "es": "Exposición: Le parole e le cose",
+    "en": "Exhibition: Le parole e le cose"
+   },
+   "d": {
+    "it": "Quindici anni di incontri nel mondo dell’arte, nel palazzo della celebre scala a chiocciola.",
+    "es": "Quince años de encuentros en el mundo del arte, en el palacio de la célebre escalera de caracol.",
+    "en": "Fifteen years of encounters in the art world, in the palace with the famous spiral staircase."
+   },
+   "l": {
+    "it": "Scala Contarini del Bovolo (San Marco)",
+    "es": "Scala Contarini del Bovolo (San Marco)",
+    "en": "Scala Contarini del Bovolo (San Marco)"
+   },
+   "q": "Scala Contarini del Bovolo, Venezia",
+   "x": false
+  },
+  {
+   "s": "2026-11-16",
+   "e": "2027-01-16",
+   "c": "cultura",
+   "n": {
+    "it": "Mostra: La bellezza che cura",
+    "es": "Exposición: La bellezza che cura",
+    "en": "Exhibition: La bellezza che cura"
+   },
+   "d": {
+    "it": "Anatomia e arte nei libri antichi della Scuola Grande di San Marco, oggi sede dell’ospedale civile.",
+    "es": "Anatomía y arte en los libros antiguos de la Scuola Grande di San Marco, hoy sede del hospital civil.",
+    "en": "Anatomy and art in the rare books of the Scuola Grande di San Marco, now the city hospital."
+   },
+   "l": {
+    "it": "Scuola Grande di San Marco (Castello)",
+    "es": "Scuola Grande di San Marco (Castello)",
+    "en": "Scuola Grande di San Marco (Castello)"
+   },
+   "q": "Scuola Grande di San Marco, Venezia",
+   "x": false
+  },
+  {
+   "s": "2026-11-20",
+   "e": "2027-02-09",
+   "c": "cultura",
+   "n": {
+    "it": "Mostra: Omaggio a Guido Sartorelli",
+    "es": "Exposición: Omaggio a Guido Sartorelli",
+    "en": "Exhibition: Omaggio a Guido Sartorelli"
+   },
+   "d": {
+    "it": "Omaggio all’artista veneziano Guido Sartorelli nel museo d’arte moderna sul Canal Grande.",
+    "es": "Homenaje al artista veneciano Guido Sartorelli en el museo de arte moderno del Gran Canal.",
+    "en": "A tribute to Venetian artist Guido Sartorelli at the modern art museum on the Grand Canal."
+   },
+   "l": {
+    "it": "Ca’ Pesaro (Santa Croce)",
+    "es": "Ca’ Pesaro (Santa Croce)",
+    "en": "Ca’ Pesaro (Santa Croce)"
+   },
+   "q": "Ca' Pesaro, Venezia",
+   "x": false
+  },
+  {
    "s": "2026-12-04",
    "e": "2026-12-06",
    "c": "teatro",
@@ -34,60 +210,38 @@
     "en": "Christmas concert"
    },
    "d": {
-    "it": "L’Orchestra del Teatro La Fenice nella Basilica di San Marco, alle 20:00. Informazioni sull’accesso sul sito della Fenice.",
-    "es": "La Orquesta del Teatro La Fenice en la Basílica de San Marcos, a las 20:00. Información sobre el acceso en la web de La Fenice.",
-    "en": "The Teatro La Fenice Orchestra in St Mark’s Basilica, at 8 pm. Admission details on the Fenice website."
+    "it": "Cappella Marciana diretta da Marco Gemmani, omaggio a Giovanni Legrenzi nel 400° della nascita. Ore 20:00; ingresso riservato a inviti e abbonati.",
+    "es": "Capilla Marciana dirigida por Marco Gemmani, homenaje a Giovanni Legrenzi en el 400.º aniversario de su nacimiento. A las 20:00; entrada reservada a invitados y abonados.",
+    "en": "The Cappella Marciana under Marco Gemmani, honouring Giovanni Legrenzi on his 400th birth anniversary. 8 pm; admission by invitation and for subscribers only."
    },
    "l": {
-    "it": "Basilica di San Marco – con la Fenice",
-    "es": "Basílica de San Marcos – con La Fenice",
-    "en": "St Mark’s Basilica – with La Fenice"
+    "it": "Basilica di San Marco (San Marco)",
+    "es": "Basílica de San Marcos (San Marco)",
+    "en": "St Mark’s Basilica (San Marco)"
    },
    "q": "Basilica di San Marco, Venezia",
    "x": false
   },
   {
-   "s": "2026-11-14",
-   "e": "2027-03-29",
-   "c": "cultura",
+   "s": "2026-12-17",
+   "e": "2026-12-18",
+   "c": "teatro",
    "n": {
-    "it": "Mostra: Fucina degli Angeli",
-    "es": "Exposición: Fucina degli Angeli",
-    "en": "Exhibition: Fucina degli Angeli"
+    "it": "Concerto sinfonico (Kochanovsky)",
+    "es": "Concierto sinfónico (Kochanovsky)",
+    "en": "Symphony concert (Kochanovsky)"
    },
    "d": {
-    "it": "Peggy Guggenheim e il vetro artistico del Novecento.",
-    "es": "Peggy Guggenheim y el vidrio artístico del siglo XX.",
-    "en": "Peggy Guggenheim and 20th-century art glass."
+    "it": "Programma russo d’inverno: Glinka (Ruslan e Ljudmila), Rimskij-Korsakov (La notte prima di Natale) e la Sinfonia n. 1 «Sogni d’inverno» di Čajkovskij. Ore 20:00.",
+    "es": "Programa ruso invernal: Glinka (Ruslán y Liudmila), Rimski-Kórsakov (La noche de Navidad) y la Sinfonía n.º 1 «Sueños de invierno» de Chaikovski. A las 20:00.",
+    "en": "A wintry Russian programme: Glinka (Ruslan and Ludmila), Rimsky-Korsakov (Christmas Eve) and Tchaikovsky’s Symphony No. 1 ‘Winter Daydreams’. 8 pm."
    },
    "l": {
-    "it": "Collezione Peggy Guggenheim (Dorsoduro)",
-    "es": "Colección Peggy Guggenheim (Dorsoduro)",
-    "en": "Peggy Guggenheim Collection (Dorsoduro)"
+    "it": "Teatro La Fenice (San Marco)",
+    "es": "Teatro La Fenice (San Marco)",
+    "en": "Teatro La Fenice (San Marco)"
    },
-   "q": "Collezione Peggy Guggenheim, Venezia",
-   "x": false
-  },
-  {
-   "s": "2026-03-29",
-   "e": "2027-01-10",
-   "c": "cultura",
-   "n": {
-    "it": "Mostra: Amar Kanwar. Co-travellers",
-    "es": "Exposición: Amar Kanwar. Co-travellers",
-    "en": "Exhibition: Amar Kanwar. Co-travellers"
-   },
-   "d": {
-    "it": "Due grandi installazioni multimediali dell’artista indiano.",
-    "es": "Dos grandes instalaciones multimedia del artista indio.",
-    "en": "Two large multimedia installations by the Indian artist."
-   },
-   "l": {
-    "it": "Palazzo Grassi (San Marco)",
-    "es": "Palazzo Grassi (San Marco)",
-    "en": "Palazzo Grassi (San Marco)"
-   },
-   "q": "Palazzo Grassi, Venezia",
+   "q": "Teatro La Fenice, Venezia",
    "x": false
   }
  ]
